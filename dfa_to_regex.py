@@ -77,7 +77,7 @@ def build_regex(paths):
 
 states = input('Enter the states in your DFA : ')
 states = states.split()
-alphabets = input('Enter the alphabets : ')
+alphabets = input('Enter the alphabet : ')
 alphabets = alphabets.split()
 init_state = input('Enter initial state : ')
 final_states = input('Enter the final states : ')
